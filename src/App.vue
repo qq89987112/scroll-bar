@@ -24,7 +24,7 @@
       <li v-for="i in 10">{{i}}</li>
       <ScrollBar thumb-color="red" top/>
     </Wrapper>
-    <h3>多边</h3>
+    <h3>多边(bug延后处理)</h3>
     <Wrapper class="wrapper">
       <li v-for="i in 10">{{i}}</li>
       <ScrollBar thumb-color="red" top/>
@@ -32,7 +32,9 @@
     </Wrapper>
 
     <h2>2、容器是普通标签</h2>
-
+    <div>
+      正在开发中
+    </div>
 
   </div>
 </template>
@@ -68,5 +70,6 @@
 
   li {
     height: 50px;
+    width: 250px;
   }
 </style>
