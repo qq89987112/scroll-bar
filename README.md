@@ -24,3 +24,4 @@
     > 厚度。当left,right时,为宽度。当top,bottom是,为高度。
 
 # demo
+  [demo](https://qq89987112.github.io/vue-scroll-bar/)
