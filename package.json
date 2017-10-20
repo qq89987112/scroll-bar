@@ -9,6 +9,15 @@
     "start": "npm run dev",
     "build": "node build/build.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq89987112/vue-scroll-bar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qq89987112/vue-scroll-bar/issues"
+  },
+  "homepage": "https://github.com/qq89987112/vue-scroll-bar#readme",
+  "license": "MIT",
   "dependencies": {
     "vue": "^2.5.2"
   },
